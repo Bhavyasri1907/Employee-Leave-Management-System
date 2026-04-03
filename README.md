@@ -17,7 +17,44 @@ The Employee Leave Management System is a Java-based application designed to man
 * IDE: Eclipse / IntelliJ IDEA / NetBeans
 ## Screenshots
 - Dashboard
--[!Dashboard](
+
+![Dashboard](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/Dashboard.png)
+
+- Admin Dashboard
+
+![Admin Dashboard](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/admin_dashboard.png)
+
+- Approve or Reject
+
+![Add Employee](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/approve_or_reject.png)
+
+- Add Employee
+
+![Add Employee](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/add_employee.png)
+
+- View Employees
+
+![View Employee](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/employee_data.png)
+
+- Employee Login
+
+ ![Employee Login](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/emp_dashboard.png)
+
+- Employee Dashboard
+
+![Employee Dashboard](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/emp_db.png)
+
+- Apply Leave
+
+![Apply  Leave](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/apply_leave.png)
+
+- Leave Records of particular Employee
+
+![Leave Records](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/leave_records.png)
+
+- Profile
+
+![Profile](https://github.com/Bhavyasri1907/Employee-Leave-Management-System/blob/main/java%20project/employee_details.png)
 
 ## ⚙️ Installation & Setup
 1. Clone the Repository
