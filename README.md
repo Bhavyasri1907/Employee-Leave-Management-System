@@ -15,9 +15,14 @@ The Employee Leave Management System is a Java-based application designed to man
 * Backend: Core Java / Servlets
 * Database: MySQL / Oracle
 * IDE: Eclipse / IntelliJ IDEA / NetBeans
+## Screenshots
+- Dashboard
+
 ## ⚙️ Installation & Setup
 1. Clone the Repository
-* git clone https://github.com/your-username/employee-leave-management-system.git
+```bash
+git clone https://github.com/your-username/employee-leave-management-system.git
+```
 2. Open in IDE
 * Import the project into Eclipse / IntelliJ / NetBeans
 3. Configure Database
