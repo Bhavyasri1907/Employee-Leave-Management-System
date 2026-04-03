@@ -17,6 +17,7 @@ The Employee Leave Management System is a Java-based application designed to man
 * IDE: Eclipse / IntelliJ IDEA / NetBeans
 ## Screenshots
 - Dashboard
+-[!Dashboard](
 
 ## ⚙️ Installation & Setup
 1. Clone the Repository
